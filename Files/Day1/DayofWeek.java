@@ -1,5 +1,6 @@
 import java.util.Scanner;
 import java.util.*;
+
 public class DayofWeek {
 public static String getDay(String day, String month, String year){
 Calendar c=  Calendar.getInstance(); 
