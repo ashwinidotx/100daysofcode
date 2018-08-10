@@ -9,5 +9,5 @@
 <b>Day 2:</b>
    <div>
     1. Created a template for Battleship game. | Java. <br>
-    2. Learnt the basics about Solidity, Ethereum based contract oriented Language. | Crypto currenct.
+    2. Learnt the basics about Solidity, Ethereum based contract oriented Language. | Crypto currency.
    </div>
