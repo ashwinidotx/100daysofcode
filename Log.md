@@ -14,5 +14,5 @@
 <b>Day 3:</b>
    <div>
     1. Learnt about Selenium and recorded the steps for navigating to a website and performing some task. | Selenium.<br>
-    2. Solved a java program to create a 2-D array of numbers decreasing while going towards the center. | Java.
+    2. Solved a C program to create a 2-D array of numbers decreasing while going towards the center. | C.
    </div>
