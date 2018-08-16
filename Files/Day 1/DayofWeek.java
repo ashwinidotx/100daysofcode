@@ -39,5 +39,6 @@ c.set(Integer.valueOf(year),Integer.valueOf(month)-1, Integer.valueOf(day));
         String year = in.next();
         
         System.out.println(getDay(day, month, year));
+        in.close();
     }
 }
