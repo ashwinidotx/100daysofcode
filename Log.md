@@ -18,7 +18,7 @@
 <b>Day 3:</b>
    <div>
    <ol>
-   <li>Learnt about Selenium and recorded the steps for navigating to a website and performing some task. | Selenium.</ol>
+   <li>Learnt about Selenium and recorded the steps for navigating to a website and performing some task. | Selenium.</li>
    <li>Solved a C program to create a 2-D array of numbers decreasing while going towards the center. | C.</li>
    </ol>
    </div>
