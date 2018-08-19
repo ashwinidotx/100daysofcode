@@ -53,3 +53,10 @@ Two Main Rules
       <li>Learnt about Numbers, Arrays, Maps, Conditional statements, Looping Statements in Go. | GoLang.</li>
    </ol>
 </div>
+
+<b>Day 6:</b>
+<div>
+<ol>
+<li>Learnt about Automated Testing in Selenium using Python. | Selenium,Python.
+</ol>
+</div>
