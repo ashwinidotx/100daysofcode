@@ -57,6 +57,14 @@ Two Main Rules
 <b>Day 6:</b>
 <div>
 <ol>
-<li>Learnt about Automated Testing in Selenium using Python. | Selenium,Python.
+<li>Learnt about Automated Testing in Selenium using Python. | Selenium,Python.</li>
+</ol>
+</div>
+
+<b>Day 7:</b>
+<div>
+<ol>
+<li>Learnt about Databases and RDBMS. | DMBS.</li>
+<li>Created a Database in MySQL, created a Table and performed varoius Operations such as Inserting, Using Constraints on tables, Selective Inserting. | RDMBS. </li>
 </ol>
 </div>
