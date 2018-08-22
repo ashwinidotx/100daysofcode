@@ -23,7 +23,14 @@ public class jdbcOne{
             String branch=rSet.getString("branch");
             System.out.println("Student ID: "+id+" Name: "+name+" Branch: "+branch);
         }
-
+        System.out.println("2nd Method for printing The table!");
+        rSet.beforeFirst();
+        rSet=st.executeQuery(query1);
+        while(rSet.next())
+		{
+			String Execme=rSet.getInt(1)+" : "+rSet.getString(2)+" : "+rSet.getString(3);
+			System.out.println(Execme);
+		}
         rSet.beforeFirst();
         rSet=st.executeQuery(query2);
         while(rSet.next())
@@ -32,5 +39,7 @@ public class jdbcOne{
             String name=rSet.getString("name");
             System.out.println("Student ID: "+id+" Name: "+name);
         }
+        st.close();
+        conn.close();
     }
 }

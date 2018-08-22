@@ -66,5 +66,6 @@ Two Main Rules
 <ol>
 <li>Learnt about Databases and RDBMS. | DMBS.</li>
 <li>Created a Database in MySQL, created a Table and performed varoius Operations such as Inserting, Using Constraints on tables, Selective Inserting. | RDMBS. </li>
+<li>Worked with Java And JDBC concept to create my first program for fetching results from a database. | Java.</li>
 </ol>
 </div>
