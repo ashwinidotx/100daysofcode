@@ -19,8 +19,8 @@ INSERT INTO student1(name,branch) VALUES('Abheesta Vemuru','CSE');
 INSERT INTO student1(name,branch) VALUES('Abinash Beuria','IT');
 INSERT INTO student1(name, branch) VALUES("Aditya Mohan Singh","IT");
 INSERT INTO student1(name, branch) VALUES('Anusri Radha',"ECE");
+INSERT INTO student1(name,branch) VALUES('Ashutosh K Singh','CSE');
 INSERT INTO student1(name) VALUES('Aman');
-INSERT INTO student1(name,branch) VALUES('Aditya MS','IT');
 
 -- UPDATING AND DELETING
 UPDATE student1 SET branch='CSE 2' WHERE branch='IT';
