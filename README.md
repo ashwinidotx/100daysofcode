@@ -63,9 +63,16 @@ Two Main Rules
 
 <b>Day 7:</b>
 <div>
-<ol>
+<ol
 <li>Learnt about Databases and RDBMS. | DMBS.</li>
 <li>Created a Database in MySQL, created a Table and performed varoius Operations such as Inserting, Using Constraints on tables, Selective Inserting. | RDMBS. </li>
 <li>Worked with Java And JDBC concept to create my first program for fetching results from a database. | Java.</li>
+</ol>
+</div> 
+
+<b>Day 8:</b>
+<div>
+<ol>
+<li>Continuing with mySQL, learnt about updating, deleting a table, Filtering table with various DQL statements. | MySQL.</li>
 </ol>
 </div>
