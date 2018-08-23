@@ -74,5 +74,6 @@ Two Main Rules
 <div>
 <ol>
 <li>Continuing with mySQL, learnt about updating, deleting a table, Filtering table with various DQL statements. | MySQL.</li>
+<li>Solved a Problem to Print the no. of Steps in order to reach the top of a staircase (Check 'Day 8/staircase.java'). | Java. </li>
 </ol>
 </div>
