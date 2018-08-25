@@ -77,3 +77,11 @@ Two Main Rules
 <li>Solved a Problem to Print the no. of Steps in order to reach the top of a staircase (Check 'Day 8/staircase.java'). | Java. </li>
 </ol>
 </div>
+
+<b>Day 9:</b>
+<div>
+<ol>
+<li>Created a Database Schema consisting of Primary key, foreign key, composite primary keys. | MySQL.</li>
+<li>Populated the Database with Values and linked them with their corresponding Tables based on their foreign keys | MySQL. </li>
+</ol>
+</div>
