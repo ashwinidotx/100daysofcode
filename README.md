@@ -85,3 +85,11 @@ Two Main Rules
 <li>Populated the Database with Values and linked them with their corresponding Tables based on their foreign keys | MySQL. </li>
 </ol>
 </div>
+
+<b>Day 10:</b>
+<div>
+<ol>
+<li>More Basic Operations in the new Created Database. | MySQL.</li>
+<li>Learnt about various Functions in MySQL. | MySQL. </li>
+</ol>
+</div>
