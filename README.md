@@ -93,3 +93,11 @@ Two Main Rules
 <li>Learnt about various Functions in MySQL. | MySQL. </li>
 </ol>
 </div>
+
+<b>Day 11:</b>
+<div>
+<ol>
+<li>Learnt about Various Functions, Wildcards, Joins and Unions in mySQL | MySQL.</li>
+<li>Solved different Problems (Repository: <a href="https://github.com/ashwinidotx/Daily-Coding-Problmes"> Daily-Coding-Problems</a>). | C. </li>
+</ol>
+</div>
