@@ -101,3 +101,11 @@ Two Main Rules
 <li>Solved different Problems (Repository: <a href="https://github.com/ashwinidotx/Daily-Coding-Problmes"> Daily-Coding-Problems</a>). | C. </li>
 </ol>
 </div>
+
+<b>Day 12:</b>
+<div>
+<ol>
+<li>Implemented Trees and funstions for inserting and inorder printing in Java. | Java.</li>
+<li>Solved a problem to determine the minimum number of coins required to make that amount of change. | C. </li>
+</ol>
+</div>
