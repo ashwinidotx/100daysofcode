@@ -109,3 +109,10 @@ Two Main Rules
 <li>Solved a problem to determine the minimum number of coins required to make that amount of change. | C. </li>
 </ol>
 </div>
+
+<b>Day 13:</b>
+<div>
+<ol>
+<li>Learnt and implemented Triggers in MySQL. | MySQL/DBMS.</li>
+</ol>
+</div>
