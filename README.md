@@ -116,3 +116,22 @@ Two Main Rules
 <li>Learnt and implemented Triggers in MySQL. | MySQL/DBMS.</li>
 </ol>
 </div>
+
+<b>Day 14:</b>
+<div>
+<ol>
+<li>Program to check whether a number is Pallindrome or not. | C</li>
+<li>Program to check whether a number is Armstrong or not. | C</li>
+<li>Program to chech for Strong Number. | C</li>
+<li>Printing a Pascals Triangle. | C</li>
+<li>Swapping an array (full and grouped) using code reusability. | C</li>
+<li>Generating Prime numbers. | C</li>
+</ol>
+</div>
+<b>Day 15:</b>
+<div>
+<ol>
+<li>Implementing Binary Search Tree with Search and Insert operation. | C</li>
+<li>Imlementing Circular Queue. | C</li>
+</ol>
+</div>
