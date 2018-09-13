@@ -135,3 +135,10 @@ Two Main Rules
 <li>Imlementing Circular Queue. | C</li>
 </ol>
 </div>
+
+<b>Day 16:</b>
+<div>
+<ol>
+<li>Created a simple Text Editor in Python using Tkinter. | Python</li>
+</ol>
+</div>
