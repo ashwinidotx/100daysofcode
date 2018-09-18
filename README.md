@@ -153,6 +153,6 @@ Two Main Rules
 <b>Day 18:</b>
 <div>
 <ol>
-<li>(in progress) Learning to develop smart contracts using <a href="http://cryptozombies.io/">CyrptoZombies. | Solidity</a> </li>
+<li>(in progress) Learning to develop smart contracts using <a href="http://cryptozombies.io/">CyrptoZombies</a>. | Solidity</li>
 </ol>
 </div>
