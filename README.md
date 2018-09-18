@@ -142,3 +142,17 @@ Two Main Rules
 <li>Created a simple Text Editor in Python using Tkinter. | Python</li>
 </ol>
 </div>
+
+<b>Day 17:</b>
+<div>
+<ol>
+<li>Learnt about blockchain and various implementation for the same. | Blockchain</li>
+<li>Studied about Merkle tree and linked lists structure used for the same. | Blockchain</li>
+</ol>
+</div>
+<b>Day 18:</b>
+<div>
+<ol>
+<li>(in progress) Learning to develop smart contracts using <a href="http://cryptozombies.io/">CyrptoZombies. | Solidity</a> </li>
+</ol>
+</div>
