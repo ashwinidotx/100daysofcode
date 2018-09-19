@@ -156,3 +156,11 @@ Two Main Rules
 <li>(in progress) Learning to develop smart contracts using <a href="http://cryptozombies.io/">CyrptoZombies</a>. | Solidity</li>
 </ol>
 </div>
+
+<b>Day 19:</b>
+<div>
+<ol>
+<li>Created and Deployed an application on my Ethereum blockchain using TestRPC and Truffle Framework. | Blockchain, Ethereum.</li>
+<li>Configured my directory to act as a private Ethereum Blockchain. | Ethereum</li>
+</ol>
+</div>
