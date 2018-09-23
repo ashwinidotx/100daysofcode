@@ -164,3 +164,11 @@ Two Main Rules
 <li>Configured my directory to act as a private Ethereum Blockchain. | Ethereum</li>
 </ol>
 </div>
+
+<b>Day 20:</b>
+<div>
+<ol>
+<li>FizzBuzz using Strings in Python. (Efficient code) | Python</li>
+<li>Printing String mountain. | C</li>
+</ol>
+</div>
