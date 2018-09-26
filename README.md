@@ -172,3 +172,10 @@ Two Main Rules
 <li>Printing String mountain. | C</li>
 </ol>
 </div>
+
+<b>Day 21:</b>
+<div>
+<ol>
+<li>Created and Deployed an application to store score using mapping datastructure on Ethereum Blockchain. | Ethereum.</li>
+</ol>
+</div>

@@ -1,0 +1,50 @@
+  478  rm *mp3
+  479  ls
+  480  ls
+  481  cd Desktop/
+  482  ls
+  483  ls -lda
+  484  pwd
+  485  uptime 
+  486  cd Desktop/
+  487  ls
+  488  defaults -currentHost write -globalDomain AppleFontSmoothing -int 2
+  489  touch ~/Desktop/Flight.java
+  490  vscode ~/Desktop/Flight.java 
+  491  ls
+  492  clear
+  493  ls
+  494  ls
+  495  defaults -currentHost write -globalDomain AppleFontSmoothing -int 3
+  496  ls
+  497  cd Desktop/
+  498  ls
+  499  ls -l
+  500  ls -lt
+  501  cd Developer/Ethereum/PluralSight/
+  502  cd ScoreStore/
+  503  ls
+  504  truffle compile
+  505  cd ..
+  506  ls
+  507  rm ScoreStore/
+  508  rm -f  ScoreStore/
+  509  rmdir -f  ScoreStore/
+  510  rmdir  ScoreStore/
+  511  rmdir  ScoreStore/*
+  512  open .
+  513  ls
+  514  mkdir ScoreStore
+  515  cd ScoreStore/
+  516  truffle init
+  517  vscode .
+  518  sublime ../demo/helloworld/contracts/helloworld.sol 
+  519  clear
+  520  truffle compile
+  521  truffle compile
+  522  truffle compile
+  523  truffle migrate
+  524  truffle migrate
+  525  truffle console
+  526  ls
+  527  history 50 >> Commands.txt
