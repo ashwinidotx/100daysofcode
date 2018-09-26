@@ -177,5 +177,6 @@ Two Main Rules
 <div>
 <ol>
 <li>Created and Deployed an application to store score using mapping datastructure on Ethereum Blockchain. | Ethereum.</li>
+<li>Tried FizzBuzz with a different approach. | C</li>
 </ol>
 </div>
