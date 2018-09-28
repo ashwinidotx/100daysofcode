@@ -185,5 +185,6 @@ Two Main Rules
 <div>
 <ol>
 <li>Created a Blochchain. | Python.</li>
+<li>Wrote a program to demonstrate proof of work. | Python</li>>
 </ol>
 </div>
