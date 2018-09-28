@@ -180,3 +180,10 @@ Two Main Rules
 <li>Tried FizzBuzz with a different approach. | C</li>
 </ol>
 </div>
+
+<b>Day 22:</b>
+<div>
+<ol>
+<li>Created a Blochchain. | Python.</li>
+</ol>
+</div>
