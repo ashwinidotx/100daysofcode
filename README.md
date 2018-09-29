@@ -188,3 +188,11 @@ Two Main Rules
 <li>Wrote a program to demonstrate proof of work. | Python</li>>
 </ol>
 </div>
+
+<b>Day 23:</b>
+<div>
+<ol>
+<li>Learnt about 'with' keyword and its use. | Python.</li>
+<li>Learnt about modules and made a simple script that acts as a module as well as an executable file. | Python</li>>
+</ol>
+</div>
