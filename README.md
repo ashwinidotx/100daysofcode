@@ -196,3 +196,10 @@ Two Main Rules
 <li>Learnt about modules and made a simple script that acts as a module as well as an executable file. | Python</li>>
 </ol>
 </div>
+
+<b>Day 23:</b>
+<div>
+<ol>
+<li>Updated the Blockchain and implemented consensus to the Blochchain. | Python.</li>
+</ol>
+</div>
