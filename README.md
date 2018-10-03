@@ -197,9 +197,16 @@ Two Main Rules
 </ol>
 </div>
 
-<b>Day 23:</b>
+<b>Day 24:</b>
 <div>
 <ol>
 <li>Updated the Blockchain and implemented consensus to the Blochchain. | Python.</li>
+</ol>
+</div>
+
+<b>Day 25:</b>
+<div>
+<ol>
+<li>Made a DAPP to show Candidates info for an Election using Ganache through the console.| Solidity, NPM, Ganache</li>
 </ol>
 </div>
