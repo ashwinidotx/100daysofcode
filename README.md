@@ -210,3 +210,10 @@ Two Main Rules
 <li>Made a DAPP to show Candidates info for an Election using Ganache through the console.| Solidity, NPM, Ganache</li>
 </ol>
 </div>
+
+<b>Day 25:</b>
+<div>
+<ol>
+<li>Finished <a href="cryptozombies.io">CryptoZombies</a> module 1. | Solidity</li>
+</ol>
+</div>
