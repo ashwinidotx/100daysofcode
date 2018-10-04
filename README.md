@@ -214,6 +214,6 @@ Two Main Rules
 <b>Day 25:</b>
 <div>
 <ol>
-<li>Finished <a href="cryptozombies.io">CryptoZombies</a> module 1. | Solidity</li>
+<li>Finished <a href="https://cryptozombies.io">CryptoZombies</a> module 1. | Solidity</li>
 </ol>
 </div>
