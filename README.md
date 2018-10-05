@@ -223,5 +223,7 @@ Two Main Rules
 <ol>
 <li>Wrote an efficient program to print sum of prime numbers from 2 to n. | Python</li>
 <li>Made a python module to get flight info, book tickets and print barding passes. | Python</li>
+<li>File handling operations using try:finally and 'with'. | Python</li>
+<li>Counting characters in words from a local file and from an online page. | Python</li>
 </ol>
 </div>
