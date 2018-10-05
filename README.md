@@ -211,9 +211,16 @@ Two Main Rules
 </ol>
 </div>
 
-<b>Day 25:</b>
+<b>Day 26:</b>
 <div>
 <ol>
 <li>Finished <a href="https://cryptozombies.io">CryptoZombies</a> module 1. | Solidity</li>
+</ol>
+</div>
+
+<b>Day 27:</b>
+<div>
+<ol>
+<li>Wrote an efficient program to print sum of prime numbers from 2 to n. | Python</li>
 </ol>
 </div>
