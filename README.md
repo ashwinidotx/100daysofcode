@@ -222,5 +222,6 @@ Two Main Rules
 <div>
 <ol>
 <li>Wrote an efficient program to print sum of prime numbers from 2 to n. | Python</li>
+<li>Made a python module to get flight info, book tickets and print barding passes. | Python</li>
 </ol>
 </div>
