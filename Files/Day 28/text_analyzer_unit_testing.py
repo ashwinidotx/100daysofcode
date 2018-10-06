@@ -10,7 +10,8 @@ def analyze_text(filename):
 			chars+=len(line)
 	#print(lines, chars)
 	return (lines, chars)
-
+    
+#--------------------TEST AREA-------------------#
 class TextAnalysisTests(unittest.TestCase):
 	"""Test  for the analyze_text() function """
 
@@ -52,7 +53,7 @@ class TextAnalysisTests(unittest.TestCase):
 		analyze_text(self.filename)
 		self.assertTrue(os.path.exists(self.filename))
 
-
+#-------------------------------------------#
 
 if __name__ == '__main__':
 	unittest.main()
