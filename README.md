@@ -227,3 +227,10 @@ Two Main Rules
 <li>Counting characters in words from a local file and from an online page. | Python</li>
 </ol>
 </div>
+
+<b>Day 28:</b>
+<div>
+<ol>
+<li>Performed unit testing on a file and learnt the basics os python unittest. | Python</li>
+</ol>
+</div>
