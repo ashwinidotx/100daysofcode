@@ -231,6 +231,7 @@ Two Main Rules
 <b>Day 28:</b>
 <div>
 <ol>
-<li>Performed unit testing on a file and learnt the basics os python unittest. | Python</li>
+<li>Performed unit testing on a file and learnt the basics of python unittest. | Python</li>
+<li>Unit test in palindrome numbers. | Python</li>
 </ol>
 </div>
