@@ -233,5 +233,6 @@ Two Main Rules
 <ol>
 <li>Performed unit testing on a file and learnt the basics of python unittest. | Python</li>
 <li>Unit test in palindrome numbers. | Python</li>
+<li>Wrote a program to count No. of binary ones in a number and also in a range on nubers. | Java</li>
 </ol>
 </div>
