@@ -236,3 +236,11 @@ Two Main Rules
 <li>Wrote a program to count No. of binary ones in a number and also in a range on nubers. | Java</li>
 </ol>
 </div>
+
+
+<b>Day 28:</b>
+<div>
+<ol>
+<li>Implemented Thread basics. | Java</li>
+</ol>
+</div>
