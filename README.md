@@ -237,10 +237,17 @@ Two Main Rules
 </ol>
 </div>
 
-
-<b>Day 28:</b>
+<b>Day 29:</b>
 <div>
 <ol>
 <li>Implemented Thread basics. | Java</li>
+</ol>
+</div>
+
+<b>Day 30:</b>
+<div>
+<ol>
+<li>Implemented Thread using Runnable class, Anonymous Class and Lambda Expression. | Java</li>
+<li>Implemented Thread directly in Thread class by passing the block of code as parameter to it. | Java</li>
 </ol>
 </div>
