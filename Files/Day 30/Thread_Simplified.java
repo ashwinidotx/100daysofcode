@@ -33,7 +33,10 @@ public class Thread_Simplified {
 		}
 		catch(Exception e) {System.out.println(e);}
 		t2.start();
-		
+		System.out.println("t1 status: alive:"+t1.isAlive());
+		System.out.println("t2 status: alive:" + t2.isAlive());
+		System.out.println("End Of Program.\nBye !!!");
+
 	} //End of Main
 	
 } // End of Thread_Simplified Class
