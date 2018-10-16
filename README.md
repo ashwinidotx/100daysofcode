@@ -249,5 +249,6 @@ Two Main Rules
 <ol>
 <li>Implemented Thread using Runnable class, Anonymous Class and Lambda Expression. | Java</li>
 <li>Implemented Thread directly in Thread class by passing the block of code as parameter to it. | Java</li>
+<li>Thread Synchronisation. | Java</li>
 </ol>
 </div>
