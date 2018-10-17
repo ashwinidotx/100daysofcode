@@ -253,3 +253,10 @@ Two Main Rules
 <li>Collections basics. | Java</li>
 </ol>
 </div>
+
+<b>Day 31:</b>
+<div>
+<ol>
+<li>Implemented Collections, ArrayList, Lists and their operations. | Java</li>
+</ol>
+</div>
