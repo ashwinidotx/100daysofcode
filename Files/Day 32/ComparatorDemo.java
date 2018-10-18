@@ -39,11 +39,11 @@ public class ComparatorDemo {
             System.out.print(i+" ");
         
         // METHOD 2
-        Comparator<Integer> c = (i, j) -> {
+        Comparator<Integer> x = (i, j) -> {
             return i % 10 > j % 10 ? 1 : -1;
         };
         // now sort the list
-        Collections.sort(value, c);
+        Collections.sort(value, x);
         // METHOD 3
         Collections.sort( value, (i, j) -> (i%10 > j%10 ? 1:-1) );
         Collections.sort(value, c);
