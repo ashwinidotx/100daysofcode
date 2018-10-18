@@ -260,3 +260,10 @@ Two Main Rules
 <li>Implemented Collections, ArrayList, Lists and their operations. | Java</li>
 </ol>
 </div>
+
+<b>Day 32:</b>
+<div>
+<ol>
+<li>Sorted a List using the last digits of the values. | Java</li>
+</ol>
+</div>
