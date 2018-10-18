@@ -265,5 +265,6 @@ Two Main Rules
 <div>
 <ol>
 <li>Sorted a List using the last digits of the values. | Java</li>
+<li>Sort the Information of a given class using Comparator Interface. | Java</li>
 </ol>
 </div>
