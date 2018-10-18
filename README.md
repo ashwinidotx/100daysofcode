@@ -266,5 +266,6 @@ Two Main Rules
 <ol>
 <li>Sorted a List using the last digits of the values. | Java</li>
 <li>Sort the Information of a given class using Comparable Interface. | Java</li>
+<li>Implemented HashSet and TreeSet, learnt the difference between the two. | Java</li>
 </ol>
 </div>
