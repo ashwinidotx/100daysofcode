@@ -32,11 +32,20 @@ public class ComparatorDemo {
 		//now sort the list
 		Collections.sort(value, c);
 		
-		
 		//Printing.
 		System.out.println("Values: "+value);
 		// or
 		for(Integer i: value)
-			System.out.print(i+" ");
+            System.out.print(i+" ");
+        
+        // METHOD 2
+        Comparator<Integer> c = (i, j) -> {
+            return i % 10 > j % 10 ? 1 : -1;
+        };
+        // now sort the list
+        Collections.sort(value, c);
+        // METHOD 3
+        Collections.sort( value, (i, j) -> (i%10 > j%10 ? 1:-1) );
+        Collections.sort(value, c);
 	}
 }
