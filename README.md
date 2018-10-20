@@ -269,3 +269,10 @@ Two Main Rules
 <li>Implemented HashSet and TreeSet, learnt the difference between the two. | Java</li>
 </ol>
 </div>
+
+<b>Day 33:</b>
+<div>
+<ol>
+<li>Started working on a Flight Automation program to assign/ allocate seats, charge fee, bag fee etc. | Java</li>
+</ol>
+</div>
