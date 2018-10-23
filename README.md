@@ -276,3 +276,10 @@ Two Main Rules
 <li>Started working on a Flight Automation program to assign/ allocate seats, charge fee, bag fee etc. | Java</li>
 </ol>
 </div>
+
+<b>Day 34:</b>
+<div>
+<ol>
+<li>Finished <a href="http://cryptozombies.io/">CyrptoZombies</a> Lesson 2. | Ethereum, Solidity</li>
+</ol>
+</div>
