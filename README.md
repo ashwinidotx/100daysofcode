@@ -283,3 +283,10 @@ Two Main Rules
 <li>Finished <a href="http://cryptozombies.io/">CyrptoZombies</a> Lesson 2. | Ethereum, Solidity</li>
 </ol>
 </div>
+
+<b>Day 35:</b>
+<div>
+<ol>
+<li>Learnt about storage and memory, Ownable and Gas Prices for Ethereum dApps as well as Security and access - <a href="http://cryptozombies.io/">CyrptoZombies</a> Lesson 3. | Ethereum, Solidity</li>
+</ol>
+</div>
