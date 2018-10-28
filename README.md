@@ -290,3 +290,11 @@ Two Main Rules
 <li>Learnt about storage and memory, Ownable and Gas Prices for Ethereum dApps as well as Security and access - <a href="http://cryptozombies.io/">CyrptoZombies</a> Lesson 3. | Ethereum, Solidity</li>
 </ol>
 </div>
+
+<b>Day 34:</b>
+<div>
+<ol>
+<li>Finished <a href="http://cryptozombies.io/">CyrptoZombies</a> Lesson 3. | Ethereum, Solidity</li>
+<li>Made a helper contract for changing name, dna after reaching a certain level, | Solidity.</li>
+</ol>
+</div>
