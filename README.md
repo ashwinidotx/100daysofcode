@@ -302,6 +302,7 @@ Two Main Rules
 <b>Day 37:</b>
 <div>
 <ol>
-<li>Learnt about events and filtering them in web3.JS for dApps from <a href='https://etherscan.io'> etherscan.io</a></li>
+<li>Learnt about events and filtering them in web3.JS for dApps from <a href='https://etherscan.io'> etherscan.io. | Web3.JS</a></li>
+<li>Inspecting individual Blocks. | Web3.JS</li>
 </ol>
 </div>
