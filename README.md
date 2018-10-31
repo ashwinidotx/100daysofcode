@@ -291,10 +291,17 @@ Two Main Rules
 </ol>
 </div>
 
-<b>Day 34:</b>
+<b>Day 36:</b>
 <div>
 <ol>
 <li>Finished <a href="http://cryptozombies.io/">CyrptoZombies</a> Lesson 3. | Ethereum, Solidity</li>
 <li>Made a helper contract for changing name, dna after reaching a certain level, | Solidity.</li>
+</ol>
+</div>
+
+<b>Day 37:</b>
+<div>
+<ol>
+<li>Learnt about events and filtering them in web3.JS for dApps from <a href='https://etherscan.io'> etherscan.io</a></li>
 </ol>
 </div>
