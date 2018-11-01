@@ -306,3 +306,11 @@ Two Main Rules
 <li>Inspecting individual Blocks. | Web3.JS</li>
 </ol>
 </div>
+
+<b>Day 38:</b>
+<div>
+<ol>
+<li>Finished <a href="http://cryptozombies.io/">CyrptoZombies</a> Lesson 4. | Ethereum, Solidity</li>
+<li>My Zombie Army: <a href='https://share.cryptozombies.io/en/lesson/4/share/shady_joker?id=WyJnaXRodWJ8MjkzMDE3MTgiLDEsMTRd'>CryptoZombie My Army</a>. | Solidity</li>
+</ol>
+</div>
