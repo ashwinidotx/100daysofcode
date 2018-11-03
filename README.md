@@ -314,3 +314,10 @@ Two Main Rules
 <li>My Zombie Army: <a href='https://share.cryptozombies.io/en/lesson/4/share/shady_joker?id=WyJnaXRodWJ8MjkzMDE3MTgiLDEsMTRd'>CryptoZombie My Army</a>. | Solidity</li>
 </ol>
 </div>
+
+<b>Day 39:</b>
+<div>
+<ol>
+<li> Learnt about ERC721 Tokens nad implementing all of its methods and events in cryptozombies. | solidity.</li>
+</ol>
+</div>
