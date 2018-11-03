@@ -319,5 +319,6 @@ Two Main Rules
 <div>
 <ol>
 <li> Learnt about ERC721 Tokens nad implementing all of its methods and events in cryptozombies. | solidity.</li>
+<li>Learnt about Makefile and implemented it. | Makefile.</li>
 </ol>
 </div>
