@@ -322,3 +322,10 @@ Two Main Rules
 <li>Learnt about Makefile and implemented it. | Makefile.</li>
 </ol>
 </div>
+
+<b>Day 40:</b>
+<div>
+<ol>
+<li> Implemented Dijkstra's Algorithm. | Java</li>
+</ol>
+</div>
