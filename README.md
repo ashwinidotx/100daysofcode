@@ -326,13 +326,21 @@ Two Main Rules
 <b>Day 40:</b>
 <div>
 <ol>
-<li> Implemented Dijkstra's Algorithm. | Java</li>
+<li>Implemented Dijkstra's Algorithm. | Java</li>
 </ol>
 </div>
 
 <b>Day 41:</b>
 <div>
 <ol>
-<li> TwoSum Question from LeetCode. | Java</li>
+<li>TwoSum Question from LeetCode. | Java</li>
+</ol>
+</div>
+
+<b>Day 42:</b>
+<div>
+<ol>
+<li>Implemented Stacks using Structures. | C</li>
+<li>Linked Lists. | C</li>
 </ol>
 </div>
