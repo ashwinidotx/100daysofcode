@@ -61,6 +61,14 @@ void delete (int pos)
     temp->next = (temp->next)->next; // not freeing the deleted element.
 }
 
+void reverse(struct node *temp) // print in reverse.
+{
+    if (temp == NULL)
+        return;
+    reverse(temp->next);
+    printf("%d ", temp->data);
+}
+
 int main()
 {
     head = NULL;
@@ -73,6 +81,9 @@ int main()
     insertAtPos(256, 6);
     print(head);
     delete (4);
+    print(head);
+    printf("\nReversed.\n");
+    reverse(head);
     print(head);
     return 0;
 }
