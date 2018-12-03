@@ -349,5 +349,6 @@ Two Main Rules
 <div>
 <ol>
 <li>Implemented Queue using Arrays. | C</li>
+<li>Implemented Circular Queue. | C</li>
 </ol>
 </div>
