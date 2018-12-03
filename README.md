@@ -344,3 +344,10 @@ Two Main Rules
 <li>Linked Lists. | C</li>
 </ol>
 </div>
+
+<b>Day 42:</b>
+<div>
+<ol>
+<li>Implemented Queue using Arrays. | C</li>
+</ol>
+</div>
