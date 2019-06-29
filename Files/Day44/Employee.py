@@ -1,27 +1,21 @@
-class Employee(dict):
-    def __init__(self): 
-        self = dict() 
-
-    def addInfo(self, name, salary): 
-        self[name] = salary 
-
-
+Emp = dict()
 
 class EmpDetails:
 
     def AddEmp(self,name,salary):
-        objE = Employee()
-        objE.addInfo(name,salary)
+        Emp[name] = salary
 
     def printAll(self):
-        obj = Employee() # to print.
-        print(obj)
+        print(Emp)
     
     def printSalary(self,name):
-        objSalary = Employee()
-        for temp in objSalary:
-            if temp[name]==name:
-                print(temp)
+        print(name, Emp[name])
+    
+    def printNames(self,salary):
+        for names, sals in Emp.items():
+          if sals>=salary:
+            print(names)
+        
 
     
 E = EmpDetails()
@@ -30,4 +24,8 @@ E.AddEmp("Abinash",45000)
 E.AddEmp("Abheesta",3000000)
 E.AddEmp("Aditya",25000)
 
+
+
 E.printAll()
+E.printSalary("Ashwini")
+E.printNames(45000)
